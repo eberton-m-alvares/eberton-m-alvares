@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d0e15&height=250&section=header&text=Eberton%20M.%20Alvares&fontSize=70&fontAlignY=35&animation=fadeIn&desc=AI%20%26%20Full%20Stack%20Engineer%20%7C%20Automation%20Architect&descAlignY=55&descAlign=50&fontColor=00f2fe&descColor=ff0055" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0d0e15&amp;height=250&amp;section=header&amp;text=Eberton%20M.%20Alvares&amp;fontSize=70&amp;fontAlignY=35&amp;animation=fadeIn&amp;desc=AI%20%26%20Full%20Stack%20Engineer%20%7C%20Automation%20Architect&amp;descAlignY=55&amp;descAlign=50&amp;fontColor=00f2fe&amp;descColor=ff0055" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00f2fe&center=true&vCenter=true&width=600&height=50&lines=%5B%E2%9C%93%5D+Initializing+AI+Agents...;%5B%E2%9C%93%5D+Connecting+CRM+Integrations...;%5B%E2%9C%93%5D+Optimizing+Meta+Ads+API...;%5B%E2%9C%93%5D+Building+Premium+Automations..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=25&amp;pause=1000&amp;color=00f2fe&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=50&amp;lines=%5B%E2%9C%93%5D+Initializing+AI+Agents...;%5B%E2%9C%93%5D+Connecting+CRM+Integrations...;%5B%E2%9C%93%5D+Optimizing+Meta+Ads+API...;%5B%E2%9C%93%5D+Building+Premium+Automations..." alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/eberton-m-alvares" target="_blank"><img src="https://img.shields.io/badge/GitHub-0d0e15?style=for-the-badge&logo=github&logoColor=00f2fe" alt="GitHub"></a>
-  <a href="https://linkedin.com/in/eberton-m-alvares" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0d0e15?style=for-the-badge&logo=linkedin&logoColor=ff0055" alt="LinkedIn"></a>
-  <a href="mailto:ebertonalvares13@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-0d0e15?style=for-the-badge&logo=gmail&logoColor=00ff66" alt="Email"></a>
+  <a href="https://github.com/eberton-m-alvares" target="_blank"><img src="https://img.shields.io/badge/GitHub-0d0e15?style=for-the-badge&amp;logo=github&amp;logoColor=00f2fe" alt="GitHub"></a>
+  <a href="https://linkedin.com/in/eberton-m-alvares" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0d0e15?style=for-the-badge&amp;logo=linkedin&amp;logoColor=ff0055" alt="LinkedIn"></a>
+  <a href="mailto:ebertonalvares13@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-0d0e15?style=for-the-badge&amp;logo=gmail&amp;logoColor=00ff66" alt="Email"></a>
 </div>
 
 <br>
@@ -34,14 +34,14 @@ Movo-me na interseção exata entre a **Inteligência Artificial** e a **arquite
 ## 🛠️ Integrated Technologies
 
 <div align="left">
-  <img src="https://img.shields.io/badge/python-0d0e15?style=for-the-badge&logo=python&logoColor=00f2fe" alt="Python"/>
-  <img src="https://img.shields.io/badge/typescript-0d0e15?style=for-the-badge&logo=typescript&logoColor=00f2fe" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/javascript-0d0e15?style=for-the-badge&logo=javascript&logoColor=00f2fe" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/docker-0d0e15?style=for-the-badge&logo=docker&logoColor=00f2fe" alt="Docker"/>
-  <img src="https://img.shields.io/badge/c%23-0d0e15?style=for-the-badge&logo=c-sharp&logoColor=ff0055" alt="C#"/>
-  <img src="https://img.shields.io/badge/.NET-0d0e15?style=for-the-badge&logo=.net&logoColor=ff0055" alt=".NET"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-0d0e15?style=for-the-badge&logo=postgresql&logoColor=00ff66" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/git-0d0e15?style=for-the-badge&logo=git&logoColor=00ff66" alt="Git"/>
+  <img src="https://img.shields.io/badge/python-0d0e15?style=for-the-badge&amp;logo=python&amp;logoColor=00f2fe" alt="Python"/>
+  <img src="https://img.shields.io/badge/typescript-0d0e15?style=for-the-badge&amp;logo=typescript&amp;logoColor=00f2fe" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/javascript-0d0e15?style=for-the-badge&amp;logo=javascript&amp;logoColor=00f2fe" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/docker-0d0e15?style=for-the-badge&amp;logo=docker&amp;logoColor=00f2fe" alt="Docker"/>
+  <img src="https://img.shields.io/badge/c%23-0d0e15?style=for-the-badge&amp;logo=c-sharp&amp;logoColor=ff0055" alt="C#"/>
+  <img src="https://img.shields.io/badge/.NET-0d0e15?style=for-the-badge&amp;logo=.net&amp;logoColor=ff0055" alt=".NET"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-0d0e15?style=for-the-badge&amp;logo=postgresql&amp;logoColor=00ff66" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/git-0d0e15?style=for-the-badge&amp;logo=git&amp;logoColor=00ff66" alt="Git"/>
 </div>
 
 <br>
@@ -59,6 +59,6 @@ Movo-me na interseção exata entre a **Inteligência Artificial** e a **arquite
 ## 📊 System Diagnostics & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eberton-m-alvares&show_icons=true&title_color=00f2fe&icon_color=ff0055&text_color=ffffff&bg_color=0d0e15&border_color=1f2335&include_all_commits=true&count_private=true" alt="Diagnostics" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eberton-m-alvares&layout=compact&title_color=00f2fe&icon_color=ff0055&text_color=ffffff&bg_color=0d0e15&border_color=1f2335" alt="Top Languages" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=eberton-m-alvares&amp;show_icons=true&amp;title_color=00f2fe&amp;icon_color=ff0055&amp;text_color=ffffff&amp;bg_color=0d0e15&amp;border_color=1f2335&amp;include_all_commits=true&amp;count_private=true" alt="Diagnostics" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eberton-m-alvares&amp;layout=compact&amp;title_color=00f2fe&amp;icon_color=ff0055&amp;text_color=ffffff&amp;bg_color=0d0e15&amp;border_color=1f2335" alt="Top Languages" height="180px"/>
 </p>

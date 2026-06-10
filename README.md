@@ -61,8 +61,8 @@
 <div align="center">
   <h2>&#x1F4CA; Impacto Mensur&aacute;vel</h2>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=eberton-m-alvares&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f2fe&icon_color=00f2fe" alt="Eberton's GitHub stats" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eberton-m-alvares&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f2fe" alt="Top Langs" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=eberton-m-alvares&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00f2fe&amp;icon_color=00f2fe&amp;count_private=true" alt="Eberton's GitHub stats" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eberton-m-alvares&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00f2fe&amp;count_private=true" alt="Top Langs" height="170px"/>
 </div>
 
 <br/>

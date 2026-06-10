@@ -8,11 +8,26 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=800&lines=Traduzindo+complexidade+em+solu%C3%A7%C3%B5es+simples.;Construindo+Agentes+de+IA+que+pensam+pelo+seu+neg%C3%B3cio.;Automatizando+o+que+%C3%A9+chato,+para+voc%C3%AA+focar+no+que+importa." alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <p>
-    Acredito que a <b>tecnologia avan&ccedil;ada n&atilde;o deve ser um idioma alien&iacute;gena</b>. Meu foco &eacute; ser a ponte entre o infinito potencial da Intelig&ecirc;ncia Artificial e a realidade do seu neg&oacute;cio. Construo sistemas aut&ocirc;nomos e automa&ccedil;&otilde;es que operam de forma invis&iacute;vel e impec&aacute;vel nos bastidores.
-  </p>
-</div>
+<br/>
+
+<table align="center" border="0" width="100%" style="border-collapse: collapse;">
+  <tr>
+    <td width="55%" valign="top">
+      <h3>🌌 Sobre Mim</h3>
+      <p>
+        Acredito que a <b>tecnologia avan&ccedil;ada n&atilde;o deve ser um idioma alien&iacute;gena</b>. Meu foco &eacute; ser a ponte entre o infinito potencial da Intelig&ecirc;ncia Artificial e a realidade do seu neg&oacute;cio. Construo sistemas aut&ocirc;nomos e automa&ccedil;&otilde;es que operam de forma invis&iacute;vel e impec&aacute;vel nos bastidores.
+      </p>
+      <p>
+        Com s&oacute;lida experi&ecirc;ncia no desenvolvimento de ponta a ponta e na orquestra&ccedil;&atilde;o de dados, ajudo empresas a escalar opera&ccedil;&otilde;es com intelig&ecirc;ncia artificial, fluxos no n8n e tracking anal&iacute;tico preciso.
+      </p>
+    </td>
+    <td width="5%" valign="top"></td>
+    <td width="40%" valign="top" align="center">
+      <h3>📊 Principais Linguagens</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eberton-m-alvares&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f2fe&count_private=true" alt="Top Langs" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -59,9 +74,21 @@
 <br/>
 
 <div align="center">
-  <h2>&#x1F4CA; Tecnologias Mais Utilizadas</h2>
+  <h2>&#x1F4C8; Atividade &amp; Fluxo de C&oacute;digo</h2>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eberton-m-alvares&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00f2fe&amp;count_private=true" alt="Top Langs" height="170px"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eberton-m-alvares&theme=tokyo-night&area=true&hide_border=true&bg_color=0D1117&color=00f2fe" alt="Activity Graph" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h2>&#x1F40D; Contribui&ccedil;&otilde;es em Movimento</h2>
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eberton-m-alvares/eberton-m-alvares/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eberton-m-alvares/eberton-m-alvares/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/eberton-m-alvares/eberton-m-alvares/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </div>
 
 <br/>
@@ -69,7 +96,7 @@
 <div align="center">
   <h2>&#x1F91D; Conecte-se Comigo</h2>
   <br/>
-  <a href="https://www.linkedin.com/in/eberton-m-alvares/" target="_blank">
+  <a href="https://www.linkedin.com/in/eberton-alvares-74b8b12b8/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:ebertonalvares13@gmail.com" target="_blank">

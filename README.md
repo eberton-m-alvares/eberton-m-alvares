@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://github.com/eberton-m-alvares" target="_blank"><img src="https://img.shields.io/badge/GitHub-0d0e15?style=for-the-badge&amp;logo=github&amp;logoColor=00f2fe" alt="GitHub"></a>
-  <a href="https://linkedin.com/in/eberton-m-alvares" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0d0e15?style=for-the-badge&amp;logo=linkedin&amp;logoColor=ff0055" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/eberton-alvares-74b8b12b8" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0d0e15?style=for-the-badge&amp;logo=linkedin&amp;logoColor=ff0055" alt="LinkedIn"></a>
   <a href="mailto:ebertonalvares13@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-0d0e15?style=for-the-badge&amp;logo=gmail&amp;logoColor=00ff66" alt="Email"></a>
 </div>
 

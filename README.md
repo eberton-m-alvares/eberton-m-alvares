@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=timeGradient&amp;height=250&amp;section=header&amp;text=Eberton%20M.%20Alvares&amp;fontSize=60&amp;fontAlignY=35&amp;animation=fadeIn&amp;desc=Arquiteto%20de%20IA%20%26%20Automa%C3%A7%C3%A3o&amp;descAlignY=55&amp;descAlign=50&amp;fontColor=ffffff&amp;descColor=00f2fe" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Eberton%20M.%20Alvares&fontSize=60&fontAlignY=35&animation=fadeIn&desc=Arquiteto%20de%20IA%20e%20Automa%C3%A7%C3%A3o&descAlignY=55&descAlign=50&fontColor=ffffff&descColor=00f2fe" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=00F2FE&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Traduzindo+complexidade+em+solu%C3%A7%C3%B5es+simples.;Construindo+Agentes+de+IA+que+pensam+pelo+seu+neg%C3%B3cio.;Automatizando+o+que+%C3%A9+chato,+para+voc%C3%AA+focar+no+que+importa." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=800&lines=Traduzindo+complexidade+em+solu%C3%A7%C3%B5es+simples.;Construindo+Agentes+de+IA+que+pensam+pelo+seu+neg%C3%B3cio.;Automatizando+o+que+%C3%A9+chato,+para+voc%C3%AA+focar+no+que+importa." alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -46,7 +46,7 @@
   <h2>&#x1F6E0; Engenharia &amp; Ferramentas</h2>
   <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,py,cs,react,nodejs,docker,postgres,aws,gcp,git&amp;theme=dark&amp;perline=10" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,wordpress,ts,py,cs,react,nodejs,docker,postgres,aws,gcp,git&theme=dark&perline=10" alt="My Skills" />
   </a>
 </div>
 
@@ -55,12 +55,12 @@
 <div align="center">
   <h2>&#x1F4CA; Impacto Mensur&aacute;vel</h2>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=eberton-m-alvares&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00f2fe&amp;icon_color=00f2fe" alt="Eberton's GitHub stats" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eberton-m-alvares&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00f2fe" alt="Top Langs" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=eberton-m-alvares&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f2fe&icon_color=00f2fe" alt="Eberton's GitHub stats" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eberton-m-alvares&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f2fe" alt="Top Langs" height="170px"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=timeGradient&amp;height=100&amp;section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%"/>
 </div>

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0d0e15&amp;height=250&amp;section=header&amp;text=Eberton%20M.%20Alvares&amp;fontSize=70&amp;fontAlignY=35&amp;animation=fadeIn&amp;desc=AI%20%26%20Full%20Stack%20Engineer%20%7C%20Automation%20Architect&amp;descAlignY=55&amp;descAlign=50&amp;fontColor=00f2fe&amp;descColor=ff0055" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0d0e15&amp;height=250&amp;section=header&amp;text=Eberton%20M.%20Alvares&amp;fontSize=70&amp;fontAlignY=35&amp;animation=fadeIn&amp;desc=AI%20and%20Full%20Stack%20Engineer%20%7C%20Automation%20Architect&amp;descAlignY=55&amp;descAlign=50&amp;fontColor=00f2fe&amp;descColor=ff0055" width="100%" />
 </div>
 
 <div align="center">
@@ -59,6 +59,6 @@ Movo-me na interseção exata entre a **Inteligência Artificial** e a **arquite
 ## 📊 System Diagnostics & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eberton-m-alvares&amp;show_icons=true&amp;title_color=00f2fe&amp;icon_color=ff0055&amp;text_color=ffffff&amp;bg_color=0d0e15&amp;border_color=1f2335&amp;include_all_commits=true&amp;count_private=true" alt="Diagnostics" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=eberton-m-alvares&amp;show_icons=true&amp;title_color=00f2fe&amp;icon_color=ff0055&amp;text_color=ffffff&amp;bg_color=0d0e15&amp;border_color=1f2335&amp;count_private=true" alt="Diagnostics" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eberton-m-alvares&amp;layout=compact&amp;title_color=00f2fe&amp;icon_color=ff0055&amp;text_color=ffffff&amp;bg_color=0d0e15&amp;border_color=1f2335" alt="Top Languages" height="180px"/>
 </p>

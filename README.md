@@ -54,23 +54,31 @@ class EbertonAlvares extends Developer {
 <img src="assets/laser-divider.svg" width="100%" />
 <br>
 
-## 🗺️ System Integration Blueprint
+## 🗺️ Project Ecosystem Map
 
-O diagrama abaixo ilustra como meus projetos reais se conectam para orquestrar campanhas e processos de forma inteligente:
+O mapa abaixo ilustra como meus projetos e repositórios estão distribuídos de forma independente sob cada uma de minhas especialidades:
 
 ```mermaid
 graph TD
-    Traffic[Meta Ads / Paid Traffic] -->|API Event / Webhook| Gateway[MCP Gateway API <br/> mcp-projeto-inovacao-api]
-    Gateway -->|Contextual Prompt| Agent[AI Agent - Nanobot/Gemini <br/> meu-nanobot / call-ia-gemini]
-    Agent -->|Analysis & Decision| CRM[CRM Integration <br/> CRM-BITZ-HOSPITALITY / Agente-PRO-CRM-V2]
-    Agent -->|Automated Task| WP[WordPress Autopilot <br/> WP-AutoAgent]
-    Agent -->|Data Log & Tracking| DB[(PostgreSQL Database <br/> Tracking & Calendario)]
-    style Traffic fill:#0d0e15,stroke:#ff0055,stroke-width:2px,color:#ffffff
-    style Gateway fill:#0d0e15,stroke:#00f2fe,stroke-width:2px,color:#ffffff
-    style Agent fill:#0d0e15,stroke:#00f2fe,stroke-width:4px,color:#ffffff
-    style CRM fill:#0d0e15,stroke:#00ff66,stroke-width:2px,color:#ffffff
-    style WP fill:#0d0e15,stroke:#00ff66,stroke-width:2px,color:#ffffff
-    style DB fill:#0d0e15,stroke:#00ff66,stroke-width:2px,color:#ffffff
+    Dev((Eberton M. Alvares)) --> Cat1[🤖 AI Agents]
+    Dev --> Cat2[📈 Traffic Tech]
+    Dev --> Cat3[💼 CRM & Tracking]
+
+    Cat1 --> Project1[meu-nanobot]
+    Cat1 --> Project2[WP-AutoAgent]
+    Cat1 --> Project3[call-ia-gemini]
+
+    Cat2 --> Project4[gestor-de-trafego-meta]
+    Cat2 --> Project5[gestor-de-trafego-claude-code]
+
+    Cat3 --> Project6[Agente-PRO-CRM-V2]
+    Cat3 --> Project7[CRM-BITZ-HOSPITALITY]
+    Cat3 --> Project8[Tracking]
+
+    style Dev fill:#0d0e15,stroke:#00f2fe,stroke-width:3px,color:#ffffff
+    style Cat1 fill:#0d0e15,stroke:#ff0055,stroke-width:2px,color:#ffffff
+    style Cat2 fill:#0d0e15,stroke:#ff0055,stroke-width:2px,color:#ffffff
+    style Cat3 fill:#0d0e15,stroke:#ff0055,stroke-width:2px,color:#ffffff
 ```
 
 <br>

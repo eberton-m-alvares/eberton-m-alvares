@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://github.com/eberton-m-alvares" target="_blank"><img src="https://img.shields.io/badge/GitHub-0d0e15?style=for-the-badge&amp;logo=github&amp;logoColor=00f2fe" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/eberton-alvares-74b8b12b8" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0d0e15?style=for-the-badge&amp;logo=linkedin&amp;logoColor=ff0055" alt="LinkedIn"></a>
+  <a href="https://linkedin.com/in/eberton-m-alvares" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0d0e15?style=for-the-badge&amp;logo=linkedin&amp;logoColor=ff0055" alt="LinkedIn"></a>
   <a href="mailto:ebertonalvares13@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-0d0e15?style=for-the-badge&amp;logo=gmail&amp;logoColor=00ff66" alt="Email"></a>
 </div>
 
@@ -16,45 +16,76 @@
 <img src="assets/laser-divider.svg" width="100%" />
 <br>
 
-<p align="right">
-  <img src="assets/status-pulsing.svg" alt="Status" />
+## 🖥️ System Status Dashboard
+<p align="center">
+  <img src="assets/system-status.svg" alt="System Status Panel" width="100%" />
 </p>
 
-## 🩸 System Overview: Eberton M. Alvares
+<br>
+<img src="assets/laser-divider.svg" width="100%" />
+<br>
 
-Movo-me na interseção exata entre a **Inteligência Artificial** e a **arquitetura de sistemas**. Como Desenvolvedor Full Stack e Especialista em IA, meu propósito é projetar e implantar agentes autônomos que resolvem fluxos operacionais, otimizam processos de CRM e elevam a performance de negócios.
+## 🩸 Core Overview: Eberton M. Alvares
 
-*   🤖 **AI Agents**: Construção de agentes inteligentes integrados com LLMs (como o [meu-nanobot](https://github.com/eberton-m-alvares/meu-nanobot) e [WP-AutoAgent](https://github.com/eberton-m-alvares/WP-AutoAgent)).
-*   💼 **CRM Orchestration**: Criação de integrações dinâmicas para vendas e atendimento (como o [Agente-PRO-CRM-V2](https://github.com/eberton-m-alvares/Agente-PRO-CRM-V2) e [CRM-BITZ-HOSPITALITY](https://github.com/eberton-m-alvares/CRM-BITZ-HOSPITALITY)).
-*   📈 **Traffic Engineering**: Desenvolvimento de automações e conectores robustos para a API do Meta Ads.
+Movo-me na interseção exata entre a **Inteligência Artificial**, **arquitetura de sistemas** e **mídia paga**. Meu propósito é projetar e implantar agentes autônomos e conectores que resolvem fluxos operacionais, integram dados de campanhas e automatizam a retenção e conversão de leads de ponta a ponta.
+
+```typescript
+class EbertonAlvares extends Developer {
+  readonly role        = "AI Architect & Full Stack Engineer";
+  readonly specialties = ["AI Agents & LLMs", "CRM Automation", "Traffic Engine integrations"];
+  readonly coreStack   = ["Python", "TypeScript", "C# / .NET", "PostgreSQL", "Docker"];
+
+  async executeAutomatedFunnel(trafficEvent: MetaAdsEvent): Promise<Conversion> {
+    const context = await MCPGateway.fetchContext(trafficEvent);
+    const agent   = await AIAgent.initialize({ core: "Claude/Gemini" });
+    const lead    = await agent.analyzeIntent(context);
+    
+    return await CRM.dispatch({
+      target: "Agente-Pro-CRM",
+      lead: lead,
+      action: "auto-convert",
+      status: "active"
+    });
+  }
+}
+```
 
 <br>
 <img src="assets/laser-divider.svg" width="100%" />
+<br>
 
-## 🛠️ Integrated Technologies
+## 🗺️ System Integration Blueprint
 
-<div align="left">
-  <img src="https://img.shields.io/badge/python-0d0e15?style=for-the-badge&amp;logo=python&amp;logoColor=00f2fe" alt="Python"/>
-  <img src="https://img.shields.io/badge/typescript-0d0e15?style=for-the-badge&amp;logo=typescript&amp;logoColor=00f2fe" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/javascript-0d0e15?style=for-the-badge&amp;logo=javascript&amp;logoColor=00f2fe" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/docker-0d0e15?style=for-the-badge&amp;logo=docker&amp;logoColor=00f2fe" alt="Docker"/>
-  <img src="https://img.shields.io/badge/c%23-0d0e15?style=for-the-badge&amp;logo=c-sharp&amp;logoColor=ff0055" alt="C#"/>
-  <img src="https://img.shields.io/badge/.NET-0d0e15?style=for-the-badge&amp;logo=.net&amp;logoColor=ff0055" alt=".NET"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-0d0e15?style=for-the-badge&amp;logo=postgresql&amp;logoColor=00ff66" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/git-0d0e15?style=for-the-badge&amp;logo=git&amp;logoColor=00ff66" alt="Git"/>
-</div>
+O diagrama abaixo ilustra como meus projetos reais se conectam para orquestrar campanhas e processos de forma inteligente:
+
+```mermaid
+graph TD
+    Traffic[Meta Ads / Paid Traffic] -->|API Event / Webhook| Gateway[MCP Gateway API <br/> mcp-projeto-inovacao-api]
+    Gateway -->|Contextual Prompt| Agent[AI Agent - Nanobot/Gemini <br/> meu-nanobot / call-ia-gemini]
+    Agent -->|Analysis & Decision| CRM[CRM Integration <br/> CRM-BITZ-HOSPITALITY / Agente-PRO-CRM-V2]
+    Agent -->|Automated Task| WP[WordPress Autopilot <br/> WP-AutoAgent]
+    Agent -->|Data Log & Tracking| DB[(PostgreSQL Database <br/> Tracking & Calendario)]
+    style Traffic fill:#0d0e15,stroke:#ff0055,stroke-width:2px,color:#ffffff
+    style Gateway fill:#0d0e15,stroke:#00f2fe,stroke-width:2px,color:#ffffff
+    style Agent fill:#0d0e15,stroke:#00f2fe,stroke-width:4px,color:#ffffff
+    style CRM fill:#0d0e15,stroke:#00ff66,stroke-width:2px,color:#ffffff
+    style WP fill:#0d0e15,stroke:#00ff66,stroke-width:2px,color:#ffffff
+    style DB fill:#0d0e15,stroke:#00ff66,stroke-width:2px,color:#ffffff
+```
 
 <br>
 <img src="assets/laser-divider.svg" width="100%" />
+<br>
 
-## ⭐ Highlighted Repositories
+## ⭐ Highlighted Projects
 
 *   ⚡ **[meu-nanobot](https://github.com/eberton-m-alvares/meu-nanobot)**: Guia completo para deploy e customização segura do Nanobot AI Agent via Docker.
 *   🤖 **[WP-AutoAgent](https://github.com/eberton-m-alvares/WP-AutoAgent)**: Script e automações integradas para simplificar a administração e operações no WordPress.
-*   📊 **[gestor-de-trafego-meta](https://github.com/eberton-m-alvares/gestor-de-trafego-meta)**: Código de integração e análise para a API do Meta Ads.
+*   📈 **[gestor-de-trafego-meta](https://github.com/eberton-m-alvares/gestor-de-trafego-meta)**: Código de integração e análise para a API do Meta Ads.
 
 <br>
 <img src="assets/laser-divider.svg" width="100%" />
+<br>
 
 ## 📊 System Diagnostics & Activity
 

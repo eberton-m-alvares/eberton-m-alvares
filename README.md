@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Eberton%20M.%20Alvares&fontSize=60&fontAlignY=35&animation=fadeIn&desc=Arquiteto%20de%20IA%20e%20Automa%C3%A7%C3%A3o&descAlignY=55&descAlign=50&fontColor=ffffff&descColor=00f2fe" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e1b4b&height=250&section=header&text=Eberton%20M.%20Alvares&fontSize=60&fontAlignY=35&animation=fadeIn&desc=Arquiteto%20de%20IA%20e%20Automa%C3%A7%C3%A3o&descAlignY=55&descAlign=50&fontColor=ffffff&descColor=00f2fe" width="100%" />
 </div>
 
 <br/>
@@ -25,17 +25,17 @@
     <td width="33%" align="center" valign="top">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="65" />
       <br/><b>Mentes Digitais (IA)</b><br/>
-      <p align="center">Crio assistentes virtuais inteligentes que aprendem as regras do seu neg&oacute;cio e resolvem problemas como um humano faria, mas na velocidade da m&aacute;quina.</p>
+      <p align="center">Crio assistentes virtuais inteligentes que aprendem as regras do seu neg&oacute;cio e resolvem problemas de forma aut&ocirc;noma e humanizada.</p>
     </td>
     <td width="33%" align="center" valign="top">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="65" />
-      <br/><b>Automa&ccedil;&atilde;o Invis&iacute;vel</b><br/>
-      <p align="center">Desenvolvo "rob&ocirc;s de software" que assumem todas as tarefas repetitivas e burocr&aacute;ticas. O objetivo? Devolver o seu bem mais precioso: o tempo.</p>
+      <br/><b>Automa&ccedil;&atilde;o Invis&iacute;vel (n8n)</b><br/>
+      <p align="center">Desenvolvo fluxos inteligentes e conectores no <b>n8n</b> para eliminar tarefas repetitivas, otimizando o seu tempo.</p>
     </td>
     <td width="33%" align="center" valign="top">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Linked%20Paperclips.png" alt="Link" width="65" />
-      <br/><b>Orquestra&ccedil;&atilde;o de Sistemas</b><br/>
-      <p align="center">Fa&ccedil;o diferentes softwares (CRMs, WhatsApp, ERPs) conversarem entre si em perfeita sincronia, centralizando toda a intelig&ecirc;ncia da opera&ccedil;&atilde;o.</p>
+      <br/><b>Orquestra&ccedil;&atilde;o &amp; Tracking</b><br/>
+      <p align="center">Integro sistemas complexos e estruturo o tracking completo de campanhas de <b>Meta Ads</b> e <b>Google Ads</b> para mensura&ccedil;&atilde;o precisa de resultados.</p>
     </td>
   </tr>
 </table>
@@ -48,6 +48,12 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,php,wordpress,ts,py,cs,react,nodejs,docker,postgres,aws,gcp,git&theme=dark&perline=10" alt="My Skills" />
   </a>
+  <br/><br/>
+  <b>&#x1F4CA; Automa&ccedil;&atilde;o &amp; Tr&aacute;fego Pago:</b><br/><br/>
+  <img src="https://img.shields.io/badge/n8n-FF6F61?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=google-ads&logoColor=white" alt="Google Ads"/>
+  <img src="https://img.shields.io/badge/Meta%20Ads-0064E0?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Ads"/>
+  <img src="https://img.shields.io/badge/Tracking%20%26%20Analytics-00c6ff?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Tracking & Analytics"/>
 </div>
 
 <br/>
@@ -62,5 +68,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,100:0f172a&height=100&section=footer" width="100%"/>
 </div>
